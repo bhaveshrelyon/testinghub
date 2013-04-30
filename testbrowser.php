@@ -9,7 +9,7 @@
 	$datediff = $todate - $fromdate;
 	$msg = floor($datediff/(60*60*24));
 	echo ($msg);*/
-
+echo "vinaykp";#testing purpose#
     function getBrowser()
     {
         $u_agent = $_SERVER['HTTP_USER_AGENT'];
